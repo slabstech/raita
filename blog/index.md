@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Blog
+title: ಮಾಹಿತಿ
 excerpt: 'Origin Stories'
 search_omit: true
 ---
-
-Sustainable Solutions for Smart City Projects
 
 <ul class="post-list">
 {% for post in site.categories.blog %}
