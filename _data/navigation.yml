@@ -1,13 +1,7 @@
 # Sample site navigation bar links
 
-- title: Blog
+- title: ಮಾಹಿತಿ
   url: /blog/
 
-- title: Art
-  url: /art/
-
-- title: Mars
-  url: /ace-mars/
-
-- title: Consult
+- title: ವಿಚಾರಣೆ
   url: /consult/

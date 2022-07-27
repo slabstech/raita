@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 #theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
-locale: kn-IN
+locale: kn
 title: "ರೈತ"
 description: "ಉತ್ತರ ಕರ್ನಾಟಕ ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ"
 baseurl: # the subpath of your site, e.g. "/blog"
