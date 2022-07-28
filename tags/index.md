@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sitemap
-excerpt: "An archive of posts sorted by tag."
+title: ಸೈಟ್ಮ್ಯಾಪ್
+excerpt: "ಟ್ಯಾಗ್ ಮೂಲಕ ವಿಂಗಡಿಸಲಾದ ಪೋಸ್ಟ್‌ಗಳ ಆರ್ಕೈವ್"
 search_omit: true
 ---
 
