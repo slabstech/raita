@@ -4,17 +4,16 @@ title: "ಕೋಳಿ ಸಾಕಣೆಯ ವಿಧಾನ"
 excerpt: "--"
 categories: blog
 tags: [ blog ]
-
 date: 2022-07-26T08:08:50-04:00
 
 ---
 
-Cost of Chick : Rs. 26
-Total Duration : 42 days
-Capacity : 5500
-Vaccination : 3
-Feed : 50 kg  x 400 packets
-    : 2000kg
-Expected : 2.2 ~ 2.4 kg
-1 year : 5 ~ 6 batch
-Cleaning and Setup : 15 days
+* ಕೋಳಿಯ ಬೆಲೆ: Rs. 26
+* ಒಟ್ಟು ಅವಧಿ : 42 ದಿನಗಳು
+* ಸಾಮರ್ಥ್ಯ: 5500
+* ವ್ಯಾಕ್ಸಿನೇಷನ್: 3
+* ಆಹಾರ : 50 ಕೆಜಿ x 400 ಪ್ಯಾಕೆಟ್‌ಗಳು
+     * 2000 ಕೆ.ಜಿ
+* ನಿರೀಕ್ಷಿತ : 2.2 ~ 2.4 ಕೆಜಿ
+* 1 ವರ್ಷ: 5 ~ 6 ಬ್ಯಾಚ್
+* ಸ್ವಚ್ಛಗೊಳಿಸುವಿಕೆ ಮತ್ತು ಸೆಟಪ್: 15 ದಿನಗಳು
