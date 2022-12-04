@@ -18,6 +18,7 @@
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. <a href="{{ site.url }}/site/privacy" > Privacy </a>, <a href="{{ site.url }}/tags" >Sitemap </a> </p>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. <a href="{{ site.url }}/site/privacy" > Privacy </a>, <a href="{{ site.url }}/tags" >Sitemap </a>, <a href="https://github.com/slabstech/raita" >Source </a> </p>
     {% endif %}
   </div>
+  </footer>
